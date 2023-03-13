@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "87cc8593-9dac-43e0-b858-5d164de9831b": {
+      "ProjectGuid": "87cc8593-9dac-43e0-b858-5d164de9831b",
+      "DisplayName": "Implementation",
+      "ColorIndex": 0
+    },
+    "ee37b2f7-4172-4251-9468-a0453d12e6c5": {
+      "ProjectGuid": "ee37b2f7-4172-4251-9468-a0453d12e6c5",
+      "DisplayName": "Api",
+      "ColorIndex": 1
+    },
+    "1f2bf181-a55b-4934-bab0-e6fcf88ec12d": {
+      "ProjectGuid": "1f2bf181-a55b-4934-bab0-e6fcf88ec12d",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e360e6db-9e17-4636-aee1-98b137670227": {
+      "ProjectGuid": "e360e6db-9e17-4636-aee1-98b137670227",
+      "DisplayName": "Application",
+      "ColorIndex": 3
+    },
+    "4b97d0d6-0e04-4088-8fe8-1831631591d8": {
+      "ProjectGuid": "4b97d0d6-0e04-4088-8fe8-1831631591d8",
+      "DisplayName": "Domain",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
